@@ -39,10 +39,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0768-partition-labels) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Breadth-First Search
 |  |
@@ -63,6 +65,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
@@ -72,4 +75,8 @@
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
+## String
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
