@@ -32,6 +32,7 @@
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3430-count-days-without-meetings) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
 |  |
@@ -54,6 +55,7 @@
 | [0768-partition-labels](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
