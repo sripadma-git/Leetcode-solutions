@@ -13,6 +13,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -98,12 +99,14 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0768-partition-labels) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Tree
 |  |
 | ------- |
