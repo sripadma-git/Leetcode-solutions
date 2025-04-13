@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0368-largest-divisible-subset](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2998-count-symmetric-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [2050-count-good-numbers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2050-count-good-numbers) |
 ## Array
 |  |
 | ------- |
