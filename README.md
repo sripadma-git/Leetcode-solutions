@@ -108,6 +108,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0768-partition-labels) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Dynamic Programming
