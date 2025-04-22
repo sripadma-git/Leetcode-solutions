@@ -14,6 +14,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -112,6 +113,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## String
 |  |
@@ -125,6 +127,7 @@
 | [0368-largest-divisible-subset](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Tree
 |  |
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
