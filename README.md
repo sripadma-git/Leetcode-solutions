@@ -221,6 +221,7 @@
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -319,6 +320,7 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
