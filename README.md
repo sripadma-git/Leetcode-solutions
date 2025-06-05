@@ -150,6 +150,7 @@
 ## Union Find
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Heap (Priority Queue)
 |  |
@@ -193,6 +194,7 @@
 | [0038-count-and-say](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
