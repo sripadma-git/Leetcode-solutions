@@ -19,6 +19,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2050-count-good-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -59,6 +60,7 @@
 | [1656-count-good-triplets](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -209,6 +211,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## String
