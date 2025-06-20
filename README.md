@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -48,6 +49,7 @@
 | [0073-set-matrix-zeroes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0135-candy) |
+| [0204-count-primes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0797-rabbits-in-forest) |
@@ -211,6 +213,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -294,6 +297,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2998-count-symmetric-integers) |
