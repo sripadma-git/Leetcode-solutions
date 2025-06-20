@@ -23,6 +23,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
