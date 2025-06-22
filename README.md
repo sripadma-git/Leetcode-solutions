@@ -157,6 +157,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
