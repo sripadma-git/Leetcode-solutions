@@ -70,6 +70,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1656-count-good-triplets) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
@@ -123,6 +124,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -285,6 +287,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -355,6 +358,7 @@
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
