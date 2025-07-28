@@ -83,6 +83,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -365,10 +366,12 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -389,6 +392,7 @@
 | [1656-count-good-triplets](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3201-distribute-candies-among-children-ii) |
