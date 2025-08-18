@@ -17,6 +17,7 @@
 | [0326-power-of-three](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0867-new-21-game) |
@@ -72,6 +73,7 @@
 | [0368-largest-divisible-subset](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
@@ -399,6 +401,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
