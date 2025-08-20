@@ -83,6 +83,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -358,6 +360,7 @@
 | [0868-push-dominoes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
