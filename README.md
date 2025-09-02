@@ -42,6 +42,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -142,6 +143,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3430-count-days-without-meetings) |
@@ -186,6 +188,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -463,6 +466,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -617,4 +621,8 @@
 | ------- |
 | [0826-soup-servings](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0867-new-21-game) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
