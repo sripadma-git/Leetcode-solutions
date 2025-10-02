@@ -46,6 +46,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -584,6 +585,7 @@
 | [2048-build-array-from-permutation](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
+| [3336-water-bottles-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Graph
