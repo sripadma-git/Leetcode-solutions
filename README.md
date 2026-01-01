@@ -12,6 +12,7 @@
 | [0002-add-two-numbers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0326-power-of-three) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0118-pascals-triangle) |
