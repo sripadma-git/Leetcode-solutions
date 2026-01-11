@@ -77,6 +77,7 @@
 | [0066-plus-one](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0204-count-primes) |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -306,6 +308,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -344,6 +347,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
@@ -388,6 +392,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
