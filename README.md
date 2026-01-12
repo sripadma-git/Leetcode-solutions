@@ -24,6 +24,7 @@
 | [0867-new-21-game](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -93,6 +94,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1390-four-divisors](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1390-four-divisors) |
@@ -656,6 +658,7 @@
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
