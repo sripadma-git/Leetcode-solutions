@@ -149,6 +149,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -260,6 +261,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3548-find-the-count-of-good-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -497,6 +499,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
