@@ -112,6 +112,7 @@
 | [1656-count-good-triplets](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1895-largest-magic-square](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -227,6 +228,7 @@
 | [0945-snakes-and-ladders](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1895-largest-magic-square](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -573,6 +575,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-largest-magic-square](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
