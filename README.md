@@ -96,6 +96,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1390-four-divisors](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1390-four-divisors) |
@@ -226,6 +227,7 @@
 | [0085-maximal-rectangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1895-largest-magic-square](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1895-largest-magic-square) |
@@ -515,6 +517,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -575,6 +578,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
