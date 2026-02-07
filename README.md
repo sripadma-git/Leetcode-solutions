@@ -343,6 +343,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -400,6 +401,7 @@
 | [0868-push-dominoes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -443,6 +445,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
