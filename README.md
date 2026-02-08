@@ -473,6 +473,7 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -482,6 +483,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -493,6 +495,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Backtracking
