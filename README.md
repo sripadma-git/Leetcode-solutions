@@ -515,6 +515,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -579,6 +580,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
