@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0797-rabbits-in-forest) |
@@ -724,6 +726,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Function
 |  |
@@ -748,6 +751,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sripadma-git/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Graph Theory
 |  |
