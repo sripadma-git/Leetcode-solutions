@@ -84,6 +84,7 @@
 | [0085-maximal-rectangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -242,6 +243,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -316,6 +318,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -496,6 +499,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -762,4 +766,8 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
