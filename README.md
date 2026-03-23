@@ -406,6 +406,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0768-partition-labels) |
@@ -444,6 +445,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -522,6 +524,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0679-24-game](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0679-24-game) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
