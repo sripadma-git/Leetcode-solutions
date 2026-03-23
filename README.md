@@ -97,6 +97,7 @@
 | [0940-fruit-into-baskets](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1200-minimum-absolute-difference](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -246,6 +247,7 @@
 | [0200-number-of-islands](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -320,6 +322,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/sripadma-git/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sripadma-git/Leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sripadma-git/Leetcode-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
